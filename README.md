@@ -88,5 +88,5 @@ https://user-images.githubusercontent.com/70064084/169647743-2fd8ed8f-243f-4c9e-
 
 
 ## Contributors
-- [@Sakalya100](https://github.com/Sakalya100)
+- [@Druky1](https://github.com/Druky1)
 
